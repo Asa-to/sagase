@@ -1,7 +1,7 @@
 # sagase
 
 ブラウザウィンドウを移動させておじさんを探すゲームです。
-- [デモサイト](asa-to.github.io/sagase/)
+- [デモサイト](https://asa-to.github.io/sagase/)
 
 [デモ動画](https://github.com/Asa-to/sagase/assets/46988205/a91985d6-02e9-44fb-9692-2a44ea8a0b36)
 
